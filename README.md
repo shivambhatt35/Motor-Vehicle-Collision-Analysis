@@ -2,10 +2,10 @@
 This web application provides an interactive and visually engaging way to explore and analyze motor vehicle collision data in New York City. Built using Streamlit, Plotly, and Pydeck, this project allows users to gain insights from a large dataset of vehicle crashes based on various parameters, including the time of day, location, and the severity of injuries.
 
 **Key Features:**
-1 Interactive Map: Visualize the locations of motor vehicle collisions across NYC, with a focus on areas with higher numbers of injuries.
-2 Collision Analysis by Hour: Explore how the frequency of collisions varies across different hours of the day with real-time data updates.
-3 Collision Breakdown by Minute: View detailed time-based patterns for vehicle crashes, providing insights into peak crash minutes.
-4 Top Dangerous Streets: Identify the top 5 streets with the most collisions, broken down by type of injury (pedestrians, cyclists, and motorists).
+1 Interactive Map: Visualize the locations of motor vehicle collisions across NYC, with a focus on areas with higher numbers of injuries.<br>
+2 Collision Analysis by Hour: Explore how the frequency of collisions varies across different hours of the day with real-time data updates.<br>
+3 Collision Breakdown by Minute: View detailed time-based patterns for vehicle crashes, providing insights into peak crash minutes.<br>
+4 Top Dangerous Streets: Identify the top 5 streets with the most collisions, broken down by type of injury (pedestrians, cyclists, and motorists).<br>
 5 Data Insights: Visualize data trends using Plotly bar charts and Pydeck's HexagonLayer for 3D map representation of crash locations.
 
 **How It Works:**
