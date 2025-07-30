@@ -47,6 +47,8 @@ This **interactive web application** offers a dynamic and intuitive way to explo
 
 
 ---
+
+## 💡 Future Enhancements
 - Add clustering algorithms for accident zones  
 - Integrate weather data for deeper contextual insights  
 - Allow user-uploaded datasets for comparison  
