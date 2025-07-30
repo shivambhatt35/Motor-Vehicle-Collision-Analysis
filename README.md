@@ -9,12 +9,12 @@ This web application provides an interactive and visually engaging way to explor
 5 Data Insights: Visualize data trends using Plotly bar charts and Pydeck's HexagonLayer for 3D map representation of crash locations.
 
 **How It Works:**<br>
-1 The app processes crash data and displays interactive visualizations, allowing users to filter the data by injury severity, time of day, and location.
-2 A built-in slider allows users to focus on specific hours of the day, while a map visualizes where the most injuries are reported.
-3 You can toggle the display of raw data for deeper analysis and better understanding.
+1 The app processes crash data and displays interactive visualizations, allowing users to filter the data by injury severity, time of day, and location.<br>
+2 A built-in slider allows users to focus on specific hours of the day, while a map visualizes where the most injuries are reported.<br>
+3 You can toggle the display of raw data for deeper analysis and better understanding.<br>
 
 **Technologies Used:**<br>
-1 Streamlit: For building the interactive web application.
-2 Plotly: For creating interactive bar charts and other visualizations.
-3 Pydeck: For creating advanced geospatial visualizations with hexagon layers on maps.
+1 Streamlit: For building the interactive web application.<br>
+2 Plotly: For creating interactive bar charts and other visualizations.<br>
+3 Pydeck: For creating advanced geospatial visualizations with hexagon layers on maps.<br>
 4 Pandas & NumPy: For data processing and manipulation.
